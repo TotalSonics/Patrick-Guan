@@ -16,6 +16,7 @@ body {
 .card {
   position: relative;
   width: 350px;
+  margin-top: 80px;
   height: 490px;
   background: #fff;
   border-radius: 20px;
